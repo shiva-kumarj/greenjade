@@ -1,4 +1,4 @@
 ## Greenjade
 
-Recommends a few songs based on the mood and sentiment of the songs you've been listening to in the last few hours.
+Goes through the songs you have listened to in the last few hours analyses the emotions and comes up with songs to help you process them.
 
